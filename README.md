@@ -37,3 +37,11 @@ http://localhost:8080
 - Client-server architecture
 - Low-level systems programming
 - File I/O in C
+
+## Demo
+
+![Image](screenshots/browser.png)
+
+![Image](screenshots/terminal.png)
+
+![Image](screenshots/server.png)
